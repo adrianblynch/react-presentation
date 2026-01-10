@@ -13,7 +13,7 @@
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "^4.0.6",
-    "react-router": "^2.0.0",
+    "react-router": "^6.30.2",
     "redux": "^3.3.1",
     "redux-thunk": "^1.0.3"
   },
